@@ -4,10 +4,7 @@ fetch('db.json')
   .then(data => {
       displayCharacters(data.animals);
   })
-  .catch(error => {
-      console.log(error);
-  });
-
+  
 //function to displayCharacters
 function displayCharacters(characters) {
   let animals = document.getElementById("jungle");
