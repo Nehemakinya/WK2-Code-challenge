@@ -1,0 +1,18 @@
+.jungle {
+    cursor: pointer;
+}
+
+#animal_details {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#jungle{
+    cursor: pointer;
+    font-size: 20px;
+    padding: 35;
+}
+
+body{
+    background-color: aqua;
+}

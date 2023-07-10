@@ -1,0 +1,35 @@
+{
+    "animals": [
+    {
+        "id": 1,
+            "name": "Mr.cute",
+            "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+            "votes": 2
+         },
+{
+
+    "id": 2,
+    "name": "Mx.monkey",
+    "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
+    "votes": 4
+},
+{
+    "id": 3,
+    "name": "Mr.Tiger",
+    "image":"https://i.pinimg.com/originals/f0/8a/9c/f08a9c0e759d4bec135d31dd7d0d1d1e.gif",
+    "votes":6
+},
+{
+    "id": 4,
+    "name":"Mr.Giraffe",
+    "image":"https://media.tenor.com/AVA1IpSERokAAAAM/giraffe-long-neck.gif",
+    "votes":3
+},
+{
+    "id":"5",
+    "name":"Mr.Elephant",
+    "image":"https://media.tenor.com/HSmgdKgKlmgAAAAd/elephants-eating.gif",
+    "votes":5
+}
+    ]
+}
